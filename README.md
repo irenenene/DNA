@@ -1,11 +1,11 @@
 # DNA
 
-Irene Liu\  
-irliu@chapman.edu\
-2313260\
-CPSC 350-02\
+Irene Liu  
+irliu@chapman.edu
+2313260  
+CPSC 350-02
 
-Assignment 1\
+Assignment 1
 
 includes: main.cpp
 
